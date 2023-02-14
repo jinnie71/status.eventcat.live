@@ -7,6 +7,10 @@ sites:
     url: https://www.eventcat.live
   - name: api.eventcat.live
     url: https://api.eventcat.live
+  - name: zoom.eventcat.live
+    url: https://zoom.eventcat.live
+  - name: zoom.worker.xl8.ai
+    url: https://zoom.worker.xl8.ai
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

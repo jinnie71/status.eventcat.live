@@ -4,19 +4,19 @@
     "url": "https://www.eventcat.live",
     "icon": "https://icons.duckduckgo.com/ip3/www.eventcat.live.ico",
     "slug": "www-eventcat-live",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5847,
-    "timeDay": 2172,
-    "timeWeek": 5354,
-    "timeMonth": 5500,
-    "timeYear": 5847,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 5818,
+    "timeDay": 2488,
+    "timeWeek": 5035,
+    "timeMonth": 5418,
+    "timeYear": 5818,
     "dailyMinutesDown": {
-      "2023-02-23": 1
+      "2023-02-23": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.eventcat.live",
     "icon": "https://icons.duckduckgo.com/ip3/api.eventcat.live.ico",
     "slug": "api-eventcat-live",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 788,
-    "timeDay": 594,
-    "timeWeek": 717,
-    "timeMonth": 738,
-    "timeYear": 788,
+    "time": 789,
+    "timeDay": 762,
+    "timeWeek": 744,
+    "timeMonth": 744,
+    "timeYear": 789,
     "dailyMinutesDown": {
-      "2023-02-23": 9
+      "2023-02-23": 18
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://zoom.eventcat.live",
     "icon": "https://icons.duckduckgo.com/ip3/zoom.eventcat.live.ico",
     "slug": "zoom-eventcat-live",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 2019,
-    "timeDay": 312,
-    "timeWeek": 1916,
-    "timeMonth": 2019,
-    "timeYear": 2019,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 2108,
+    "timeDay": 1654,
+    "timeWeek": 2051,
+    "timeMonth": 2108,
+    "timeYear": 2108,
     "dailyMinutesDown": {
-      "2023-02-23": 9
+      "2023-02-23": 17
     }
   },
   {

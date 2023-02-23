@@ -4,10 +4,10 @@
     "url": "https://www.eventcat.live",
     "icon": "https://icons.duckduckgo.com/ip3/www.eventcat.live.ico",
     "slug": "www-eventcat-live",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5847,
@@ -15,7 +15,9 @@
     "timeWeek": 5354,
     "timeMonth": 5500,
     "timeYear": 5847,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 1
+    }
   },
   {
     "name": "api.eventcat.live",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.eventcat.live.ico",
     "slug": "api-eventcat-live",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 788,
     "timeDay": 594,
     "timeWeek": 717,
     "timeMonth": 738,
     "timeYear": 788,
     "dailyMinutesDown": {
-      "2023-02-23": 1
+      "2023-02-23": 9
     }
   },
   {
@@ -43,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/zoom.eventcat.live.ico",
     "slug": "zoom-eventcat-live",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 2019,
     "timeDay": 312,
     "timeWeek": 1916,
     "timeMonth": 2019,
     "timeYear": 2019,
     "dailyMinutesDown": {
-      "2023-02-23": 0
+      "2023-02-23": 9
     }
   },
   {

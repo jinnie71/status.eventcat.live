@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5730,
-    "timeDay": 2389,
-    "timeWeek": 5026,
-    "timeMonth": 5322,
-    "timeYear": 5730,
+    "time": 5717,
+    "timeDay": 4079,
+    "timeWeek": 4617,
+    "timeMonth": 5215,
+    "timeYear": 5717,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 797,
-    "timeDay": 822,
-    "timeWeek": 767,
+    "time": 798,
+    "timeDay": 888,
+    "timeWeek": 813,
     "timeMonth": 805,
-    "timeYear": 797,
+    "timeYear": 798,
     "dailyMinutesDown": {
       "2023-02-23": 18
     }
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zoom.eventcat.live.ico",
     "slug": "zoom-eventcat-live",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 2207,
-    "timeDay": 226,
-    "timeWeek": 2647,
-    "timeMonth": 2207,
-    "timeYear": 2207,
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 2152,
+    "timeDay": 608,
+    "timeWeek": 2233,
+    "timeMonth": 2152,
+    "timeYear": 2152,
     "dailyMinutesDown": {
       "2023-02-23": 17
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 442,
-    "timeDay": 135,
-    "timeWeek": 203,
-    "timeMonth": 442,
-    "timeYear": 442,
+    "time": 439,
+    "timeDay": 349,
+    "timeWeek": 199,
+    "timeMonth": 439,
+    "timeYear": 439,
     "dailyMinutesDown": {}
   }
 ]

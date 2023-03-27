@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5627,
-    "timeDay": 7593,
-    "timeWeek": 5693,
-    "timeMonth": 4951,
-    "timeYear": 5627,
+    "time": 5600,
+    "timeDay": 4760,
+    "timeWeek": 5222,
+    "timeMonth": 4847,
+    "timeYear": 5600,
     "dailyMinutesDown": {}
   },
   {
@@ -29,33 +29,31 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 784,
-    "timeDay": 946,
-    "timeWeek": 766,
-    "timeMonth": 755,
+    "timeDay": 890,
+    "timeWeek": 775,
+    "timeMonth": 757,
     "timeYear": 784,
     "dailyMinutesDown": {
       "2023-02-23": 18
     }
   },
   {
-    "name": "zoom.eventcat.live",
-    "url": "https://zoom.eventcat.live",
-    "icon": "https://icons.duckduckgo.com/ip3/zoom.eventcat.live.ico",
-    "slug": "zoom-eventcat-live",
+    "name": "zapp.eventcat.live",
+    "url": "https://zapp.eventcat.live",
+    "icon": "https://icons.duckduckgo.com/ip3/zapp.eventcat.live.ico",
+    "slug": "zapp-eventcat-live",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 2237,
-    "timeDay": 3291,
-    "timeWeek": 3073,
-    "timeMonth": 2253,
-    "timeYear": 2237,
-    "dailyMinutesDown": {
-      "2023-02-23": 17
-    }
+    "uptimeYear": "100.00%",
+    "time": 380,
+    "timeDay": 380,
+    "timeWeek": 380,
+    "timeMonth": 380,
+    "timeYear": 380,
+    "dailyMinutesDown": {}
   },
   {
     "name": "zoom.worker.xl8.ai",
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 369,
-    "timeDay": 287,
-    "timeWeek": 224,
-    "timeMonth": 240,
-    "timeYear": 369,
+    "time": 363,
+    "timeDay": 198,
+    "timeWeek": 210,
+    "timeMonth": 235,
+    "timeYear": 363,
     "dailyMinutesDown": {}
   }
 ]

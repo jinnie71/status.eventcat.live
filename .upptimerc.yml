@@ -7,8 +7,8 @@ sites:
     url: https://www.eventcat.live
   - name: api.eventcat.live
     url: https://api.eventcat.live
-  - name: zoom.eventcat.live
-    url: https://zoom.eventcat.live
+  - name: zapp.eventcat.live
+    url: https://zapp.eventcat.live
   - name: zoom.worker.xl8.ai
     url: https://zoom.worker.xl8.ai
 

@@ -60,19 +60,19 @@
     "url": "https://zoom.worker.xl8.ai",
     "icon": "https://icons.duckduckgo.com/ip3/zoom.worker.xl8.ai.ico",
     "slug": "zoom-worker-xl8-ai",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 291,
-    "timeWeek": 213,
-    "timeMonth": 232,
-    "timeYear": 357,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "92.22%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.82%",
+    "time": 355,
+    "timeDay": 276,
+    "timeWeek": 218,
+    "timeMonth": 233,
+    "timeYear": 355,
     "dailyMinutesDown": {
-      "2023-03-29": 0
+      "2023-03-29": 112
     }
   }
 ]

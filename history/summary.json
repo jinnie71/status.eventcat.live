@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5612,
-    "timeDay": 7533,
-    "timeWeek": 6913,
-    "timeMonth": 4939,
-    "timeYear": 5612,
+    "time": 5620,
+    "timeDay": 6758,
+    "timeWeek": 6668,
+    "timeMonth": 5048,
+    "timeYear": 5620,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 791,
-    "timeDay": 844,
-    "timeWeek": 1085,
+    "time": 792,
+    "timeDay": 877,
+    "timeWeek": 1039,
     "timeMonth": 785,
-    "timeYear": 791,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2023-02-23": 18
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1572,
-    "timeDay": 305,
-    "timeWeek": 1999,
-    "timeMonth": 1572,
-    "timeYear": 1572,
+    "time": 1491,
+    "timeDay": 436,
+    "timeWeek": 1534,
+    "timeMonth": 1491,
+    "timeYear": 1491,
     "dailyMinutesDown": {}
   },
   {
@@ -61,16 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zoom.worker.xl8.ai.ico",
     "slug": "zoom-worker-xl8-ai",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.85%",
-    "time": 404,
-    "timeDay": 250,
-    "timeWeek": 215,
-    "timeMonth": 345,
-    "timeYear": 404,
+    "uptimeYear": "99.86%",
+    "time": 400,
+    "timeDay": 178,
+    "timeWeek": 198,
+    "timeMonth": 341,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2023-03-29": 112
     }

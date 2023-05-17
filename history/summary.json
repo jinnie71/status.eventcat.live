@@ -4,18 +4,20 @@
     "url": "https://www.eventcat.live",
     "icon": "https://icons.duckduckgo.com/ip3/www.eventcat.live.ico",
     "slug": "www-eventcat-live",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5438,
-    "timeDay": 1962,
-    "timeWeek": 4390,
-    "timeMonth": 4904,
-    "timeYear": 5438,
-    "dailyMinutesDown": {}
+    "time": 5442,
+    "timeDay": 4072,
+    "timeWeek": 4614,
+    "timeMonth": 4944,
+    "timeYear": 5442,
+    "dailyMinutesDown": {
+      "2023-05-17": 0
+    }
   },
   {
     "name": "api.eventcat.live",

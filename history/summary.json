@@ -6,17 +6,17 @@
     "slug": "www-eventcat-live",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "96.12%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
-    "time": 5411,
+    "time": 5419,
     "timeDay": 4153,
     "timeWeek": 4449,
     "timeMonth": 4841,
-    "timeYear": 5411,
+    "timeYear": 5419,
     "dailyMinutesDown": {
-      "2023-05-17": 55
+      "2023-05-17": 46
     }
   },
   {

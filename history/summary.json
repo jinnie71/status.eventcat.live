@@ -4,7 +4,7 @@
     "url": "https://zapp.eventcat.live",
     "icon": "https://icons.duckduckgo.com/ip3/zapp.eventcat.live.ico",
     "slug": "zapp-eventcat-live",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1505,
     "timeMonth": 2395,
     "timeYear": 1850,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-23": 0
+    }
   },
   {
     "name": "zoom.worker.xl8.ai",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/zoom.worker.xl8.ai.ico",
     "slug": "zoom-worker-xl8-ai",
     "status": "up",
-    "uptime": "94.77%",
+    "uptime": "94.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "83.40%",
-    "uptimeYear": "94.77%",
+    "uptimeYear": "94.78%",
     "time": 337,
     "timeDay": 164,
     "timeWeek": 283,

@@ -4,19 +4,19 @@
     "url": "https://zapp.eventcat.live",
     "icon": "https://icons.duckduckgo.com/ip3/zapp.eventcat.live.ico",
     "slug": "zapp-eventcat-live",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2169,
-    "timeDay": 5569,
-    "timeWeek": 3159,
-    "timeMonth": 2581,
-    "timeYear": 2169,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "93.91%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.92%",
+    "time": 2213,
+    "timeDay": 5653,
+    "timeWeek": 3455,
+    "timeMonth": 2671,
+    "timeYear": 2213,
     "dailyMinutesDown": {
-      "2023-06-13": 0
+      "2023-06-13": 88
     }
   },
   {
